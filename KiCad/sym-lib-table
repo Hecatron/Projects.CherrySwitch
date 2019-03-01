@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name CustomSockets)(type Legacy)(uri ${KIPRJMOD}/CustomSockets.lib)(options "")(descr ""))
+)
